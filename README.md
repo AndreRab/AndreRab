@@ -1,3 +1,5 @@
+![LinkedIn background](https://github.com/user-attachments/assets/b4f0b3dc-845c-4dbe-987d-9ce27bf9ca94)
+
 <h1 align="center">Hi 👋, I'm Andrew</h1>
 <h3 align="center">Aspiring Data Scientist with entry-level proficiency in Machine Learning and NLP. My ambition is to help companies like OpenAI develop innovative solutions by using machine learning models and neural networks. But of course you can find projects for the others topics</h3>
 
