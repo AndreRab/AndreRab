@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/andrei-rabau/?trk=opento_sprofile_topcard&lipi=urn%3ali%3apage%3ad_flagship3_profile_verification_details%3byr8rhl1iqigzecgbshq3ew%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andrei-rabau/?trk=opento_sprofile_topcard&lipi=urn%3ali%3apage%3ad_flagship3_profile_verification_details%3byr8rhl1iqigzecgbshq3ew%3d%3d" height="30" width="40" /></a>
+<a href="//www.linkedin.com/in/andrei-rabau/?trk=opento_sprofile_topcard&lipi=urn%3ali%3apage%3ad_flagship3_profile_verification_details%3byr8rhl1iqigzecgbshq3ew%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andrei-rabau/?trk=opento_sprofile_topcard&lipi=urn%3ali%3apage%3ad_flagship3_profile_verification_details%3byr8rhl1iqigzecgbshq3ew%3d%3d" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages</h3>
