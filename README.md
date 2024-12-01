@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
 <h3 align="center">Aspiring Data Scientist with entry-level proficiency in Machine Learning and NLP. My ambition is to help companies like OpenAI develop innovative solutions by using machine learning models and neural networks. But of course you can find projects for the others topics</h3>
 
-- 🔭 I’m currently working on [Photo-colorizing-GAN](https://github.com/AndreRab/Photo-colorizing-GAN)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
