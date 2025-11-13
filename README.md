@@ -1,4 +1,5 @@
-![LinkedIn background](https://github.com/user-attachments/assets/b4f0b3dc-845c-4dbe-987d-9ce27bf9ca94)
+<img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/586ad964-c819-4383-9854-dabadf2233d2" />
+
 
 <h1 align="center">Hi 👋, I'm Andrew</h1>
 Machine Learning Engineer specializing in LLMs, Generative AI, and applied research with hands-on experience in end-to-end
@@ -15,7 +16,21 @@ about developing reliable, interpretable, and maintainable AI systems.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="//www.linkedin.com/in/andrei-rabau/?trk=opento_sprofile_topcard&lipi=urn%3ali%3apage%3ad_flagship3_profile_verification_details%3byr8rhl1iqigzecgbshq3ew%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andrei-rabau/?trk=opento_sprofile_topcard&lipi=urn%3ali%3apage%3ad_flagship3_profile_verification_details%3byr8rhl1iqigzecgbshq3ew%3d%3d" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/andrzej-rebowski/" target="_blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       alt="LinkedIn"
+       height="30"
+       width="40" />
+</a>
+
+<a href="mailto:andrzej.rebowski.official@gmail.com" target="_blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg"
+       alt="Email"
+       height="30"
+       width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages</h3>
@@ -24,5 +39,13 @@ about developing reliable, interpretable, and maintainable AI systems.
 <h3 align="left">Tools:</h3>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreRab)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRab&layout=compact&size_weight=0&count_weight=1&hide=ShaderLab,C,C++,Objective-C)
+<h3 align="left">Machine Learning:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/5ae90bfcbd7ab2f69809b094601f7975c32ae077/src/images/icons/AIML/opencv.svg" alt="opencv" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/5ae90bfcbd7ab2f69809b094601f7975c32ae077/src/images/icons/AIML/pytorch.svg" alt="pytorch" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/5ae90bfcbd7ab2f69809b094601f7975c32ae077/src/images/icons/AIML/scikit.svg" alt="scikit" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/5ae90bfcbd7ab2f69809b094601f7975c32ae077/src/images/icons/AIML/tensorflow.svg" alt="tensorflow" width="40" height="40"/>
+</p>
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreRab&show_icons=true&theme=tokyonight)
