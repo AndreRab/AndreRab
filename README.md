@@ -1,7 +1,16 @@
 ![LinkedIn background](https://github.com/user-attachments/assets/b4f0b3dc-845c-4dbe-987d-9ce27bf9ca94)
 
 <h1 align="center">Hi 👋, I'm Andrew</h1>
-<h3 align="center">Aspiring Data Scientist with entry-level proficiency in Machine Learning and NLP. My ambition is to help companies like OpenAI develop innovative solutions by using machine learning models and neural networks. But of course you can find projects for the others topics</h3>
+Machine Learning Engineer specializing in LLMs, Generative AI, and applied research with hands-on experience in end-to-end
+ML pipelines. 2+ years of experience across both large-scale corporate systems and small research-driven projects. Worked
+in teams ranging from compact research groups to enterprise-level environments with complex data pipelines and multiple
+stakeholders.<br>
+Built and maintained full ML development cycles — from data preprocessing and model design to automated deployment,
+monitoring, and delivering forecasts to decision-makers. Experienced in optimizing legacy codebases, ensuring model
+consistency, and managing CI/CD workflows for ML operations.<br>
+In addition to production-level ML expertise, contributed to scientific research projects, helping to design and validate
+models used in academic publications. Passionate about bridging the gap between research and real-world engineering, and
+about developing reliable, interpretable, and maintainable AI systems.
 
 
 <h3 align="left">Connect with me:</h3>
